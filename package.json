@@ -1,0 +1,9 @@
+{
+  "name": "b4d-4rt",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://connorwalsh.github.io/b4d-4rt",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
